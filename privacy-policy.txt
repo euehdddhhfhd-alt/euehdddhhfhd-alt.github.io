@@ -1,0 +1,27 @@
+Privacy Policy for MuscleAltas
+
+Effective Date: October 15, 2026
+
+1. Introduction
+Welcome to MuscleAltas ("we," "our," or "us"), an offline fitness exercise guide application strictly featuring Muscle Groups and All Exercises menus (Package ID: com.musclealtas.gymvault). We respect your privacy and are committed to protecting any data associated with your use of our application.
+
+2. Information Collection and Storage
+- Offline Local Data: MuscleAltas operates strictly as an offline exercise guide application. All exercise video tutorials and muscle group selections are stored locally on your device using Room SQLite database and internal storage. We do not collect, store, or transmit your personal physical health data or exercise selections to external servers.
+- Advertising Identifier (GAID): Our app integrates Unity LevelPlay / Unity Ads to display banner advertisements. Unity Ads may automatically access your device's Google Advertising ID (AD_ID) and standard technical device details (such as device model, screen resolution, operating system version, and IP address) to deliver, measure, and optimize advertising services.
+
+3. Third-Party Ad Services
+Our app uses Unity Ads / LevelPlay to serve advertisements. Third-party ad networks may collect non-personally identifiable information in accordance with their respective privacy policies:
+- Unity Ads Privacy Policy: https://unity.com/legal/privacy-policy
+
+4. Permissions Requested
+- INTERNET and ACCESS_NETWORK_STATE: Required to fetch and render banner advertisements from Unity LevelPlay ad networks.
+- AD_ID (com.google.android.gms.permission.AD_ID): Allows Unity Ads to serve compliant ad inventory in accordance with Google Play Developer Policies.
+
+5. Children's Privacy
+MuscleAltas is intended for general audiences and does not knowingly collect personal identifiable information from children under the age of 13.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. You are advised to review this page periodically for any changes.
+
+7. Contact Us
+If you have any questions or suggestions regarding our Privacy Policy, please contact us via our official developer GitHub repository or developer contact page.
