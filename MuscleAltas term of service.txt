@@ -1,0 +1,29 @@
+Terms of Service for MuscleAltas
+
+Effective Date: October 15, 2026
+
+1. Acceptance of Terms
+By downloading, installing, or using MuscleAltas (Package ID: com.musclealtas.gymvault), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the application.
+
+2. Description of Application
+MuscleAltas is an offline fitness exercise reference application designed to provide muscle group guides, exercise video tutorials, and customizable exercise lists. All exercise data and tutorial content are stored locally on your device using an offline Room SQLite database.
+
+3. Health & Physical Activity Disclaimer
+- Informational Purpose Only: The exercise instructions, video tutorials, and fitness recommendations provided within MuscleAltas are for educational and informational purposes only.
+- Not Medical Advice: MuscleAltas is not a medical provider and does not give medical advice, diagnosis, or treatment. Always consult a physician or qualified healthcare professional before starting any new exercise routine, especially if you have pre-existing health conditions.
+- Assumption of Risk: You perform all exercises at your own risk. MuscleAltas shall not be held liable for any injury, physical harm, or health complications resulting from performing exercises shown in the app.
+
+4. Advertisements & Third-Party Ad Networks
+MuscleAltas incorporates third-party advertising services provided by Start.io (StartApp). To deliver relevant banner advertisements, Start.io may automatically collect standard technical device details and non-personally identifiable advertising identifiers (AD_ID) in accordance with Start.io's Privacy Policy.
+
+5. Intellectual Property
+All content within MuscleAltas, including but not limited to software code, video tutorials, exercise graphics, logos, and UI designs, is the property of MuscleAltas and is protected by applicable intellectual property laws. You are granted a personal, non-exclusive, non-transferable license to use the app for personal, non-commercial fitness reference.
+
+6. Limitation of Liability
+To the maximum extent permitted by applicable law, MuscleAltas and its developers shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising out of your access to, use of, or inability to use the application.
+
+7. Changes to Terms
+We reserve the right to modify or update these Terms of Service at any time. Any changes will be effective immediately upon publishing the updated Terms.
+
+8. Contact Us
+If you have any questions or concerns regarding these Terms of Service, please contact us via our official developer contact page or GitHub repository.
